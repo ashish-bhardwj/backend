@@ -21,7 +21,7 @@
     "@types/mongoose": "^5.3.21",
     "angular2-flash-messages": "^1.0.5",
     "angular2-jwt": "^0.2.3",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
